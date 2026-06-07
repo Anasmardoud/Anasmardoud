@@ -37,7 +37,7 @@ systems with a strong focus on clean architecture and design patterns.
 `SQL Server` `MySQL` `Supabase` `pgvector`
 
 **Tools**
-`Git` `Visual Studio` `Postman` `Swagger` `IntelliJ`
+`Git` `Visual Studio` `Postman` `Swagger` `IntelliJ` `vs code`
 
 ---
 
