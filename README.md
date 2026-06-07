@@ -1,16 +1,54 @@
-## Hi there 👋
+## Hi, I'm Anas Mardoud 👋
 
-<!--
-**Anasmardoud/Anasmardoud** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+M1 Computer Science student at the Lebanese University, specializing in
+Software Engineering and AI. I build secure, scalable, and maintainable
+systems with a strong focus on clean architecture and design patterns.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔭 What I'm currently working on
+
+- **LawDirect.ai** — an AI-powered lawyer recommendation platform for Lebanon
+  built with Vue.js, Node.js, Supabase, pgvector, and HuggingFace embeddings
+- **M1 coursework projects** — machine learning, NLP, and AI systems
+
+---
+
+### 🌱 What I'm currently learning
+
+- Machine Learning & NLP (sentiment analysis, text representation, neural networks)
+- Cloud Computing & Parallel Programming
+- Advanced Database Systems
+
+---
+
+### 🛠️ Tools & technologies I use
+
+**Languages**
+`C#` `JavaScript` `Python` `Java` `PHP` `SQL`
+
+**Backend**
+`ASP.NET Core` `.NET 8` `Entity Framework Core` `Node.js`
+
+**Frontend**
+`Vue.js` `WPF` `Telerik UI` `HTML/CSS`
+
+**Databases**
+`SQL Server` `MySQL` `Supabase` `pgvector`
+
+**Tools**
+`Git` `Visual Studio` `Postman` `Swagger` `IntelliJ`
+
+---
+
+### 📫 How to reach me
+
+- Email: anas.mardoud.cs@gmail.com
+- LinkedIn: [linkedin.com/in/anasmardoud](https://linkedin.com/in/anasmardoud)
+
+---
+
+### ⚡ Fun fact
+
+I'm based in Lebanon and building AI products for the Arab legal market —
+combining software engineering with real-world impact.
