@@ -9,7 +9,7 @@
 </div>
 <div align="center">
 
-<a href="https://linkedin.com/in/anasmardoud">
+<a href="https://www.linkedin.com/in/anas-mardoud-47996222a/">
   <img
     src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=800&color=818CF8&center=true&vCenter=true&width=750&lines=Software+Engineer+%7C+Clean+Architecture+and+Design+Patterns;Building+LawDirect.ai+%E2%80%94+AI-Powered+Legal-Tech+for+Lebanon;M1+Computer+Science+Graduate+%E2%80%94+Lebanese+University"
     alt="Software Engineer, building AI-powered products"
@@ -217,7 +217,7 @@ A simulated banking system covering accounts, transactions, and core banking flo
 
 ### 📫 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/-Anas%20Mardoud-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/anasmardoud)
+[![LinkedIn](https://img.shields.io/badge/-Anas%20Mardoud-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anas-mardoud-47996222a/)
 [![Gmail](https://img.shields.io/badge/-anas.mardoud.cs%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:anas.mardoud.cs@gmail.com)
 
 <sub>⚡ Fun fact: I'm building AI products for the Arab legal & agricultural markets — combining software engineering with real-world impact.</sub>
