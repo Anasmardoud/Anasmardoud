@@ -1,10 +1,22 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:6366f1&height=220&section=header&text=Anas%20Mardoud&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20AI%20%26%20Data%20Engineering&descAlignY=58&descSize=18" width="100%"/>
+<img
+  src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0f172a,100:6366f1&text=Anas%20Mardoud&fontColor=ffffff&fontSize=52&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20AI%20%20%20Engineering&descAlignY=58&descSize=18&animation=fadeIn"
+  alt="Anas Mardoud profile header"
+  width="100%"
+/>
+
+</div>
+<div align="center">
 
 <a href="https://linkedin.com/in/anasmardoud">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=800&color=818CF8&center=true&vCenter=true&width=650&lines=Software+Engineer+%7C+Clean+Architecture+%26+Design+Patterns;Building+LawDirect.ai+%E2%80%94+AI-powered+legal-tech+for+Lebanon;M1+Computer+Science+Graduate+%E2%80%94+Lebanese+University" alt="Typing SVG" />
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=800&color=818CF8&center=true&vCenter=true&width=750&lines=Software+Engineer+%7C+Clean+Architecture+and+Design+Patterns;Building+LawDirect.ai+%E2%80%94+AI-Powered+Legal-Tech+for+Lebanon;M1+Computer+Science+Graduate+%E2%80%94+Lebanese+University"
+    alt="Software Engineer, building AI-powered products"
+  />
 </a>
+
+</div>
 
 <br/>
 
@@ -17,18 +29,43 @@
 
 <br/>
 
-## About Me
+## 👨‍💻 About Me
 
-```yaml
-name: Anas Mardoud
-role: Full-Stack Developer & AI Systems Builder
-education: "M1 Computer Science — Lebanese University (completed 2026)"
-focus: Secure, scalable systems | Clean architecture | AI-powered products
-based_in: Lebanon 🇱🇧
-currently_shipping: LawDirect.ai & Mazrouii
-```
+<table>
+<tr>
+<td width="30%"><strong>👤 Name</strong></td>
+<td>Anas Mardoud</td>
+</tr>
+<tr>
+<td><strong>💼 Role</strong></td>
+<td>Full-Stack Developer & AI Systems Builder</td>
+</tr>
+<tr>
+<td><strong>🎓 Education</strong></td>
+<td>M1 Computer Science — Lebanese University, completed in 2026</td>
+</tr>
+<tr>
+<td><strong>🎯 Focus</strong></td>
+<td>Secure systems, clean architecture and AI-powered products</td>
+</tr>
+<tr>
+<td><strong>📍 Based in</strong></td>
+<td>Lebanon 🇱🇧</td>
+</tr>
+<tr>
+<td><strong>🚀 Currently Building</strong></td>
+<td>LawDirect.ai and Mazrouii</td>
+</tr>
+</table>
 
-I'm a full-stack developer who just wrapped up my M1 in Computer Science, with a growing focus on **AI-powered, production-grade systems**. I like taking projects from architecture diagram to deployed product — most recently **LawDirect.ai**, an AI legal-tech platform for the Lebanese market, and **Mazrouii**, a bilingual expense-tracking app I'm building for real family/farm use.
+I'm a full-stack developer with an M1 in Computer Science and a growing
+focus on **AI-powered, production-grade systems**.
+
+I enjoy taking projects from the initial architecture and database design
+to implementation, testing and deployment. My recent work includes
+**LawDirect.ai**, an AI legal-tech platform for the Lebanese market, and
+**Mazrouii**, a bilingual expense-tracking application designed for real
+family and agricultural business use.
 
 <br/>
 
