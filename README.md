@@ -58,7 +58,7 @@ Secure online banking system.
 <img src="https://skillicons.dev/icons?i=cs,ts,java,python,php,c" />
 
 ### Frontend
-<img src="https://skillicons.dev/icons?i=vue,html,css,tailwind,bootstrap" />
+<img src="https://skillicons.dev/icons?i=react,vue,html,css,tailwind,bootstrap" />
 
 ### Backend
 <img src="https://skillicons.dev/icons?i=dotnet,nodejs,express" />
